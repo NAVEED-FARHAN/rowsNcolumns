@@ -1,0 +1,14 @@
+# local tooling / freebuff preview state
+.freebuff/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# raw lesson drafts (publish via js/lessons/*.js instead)
+Module */
+
+# OS junk
+.DS_Store
+Thumbs.db
